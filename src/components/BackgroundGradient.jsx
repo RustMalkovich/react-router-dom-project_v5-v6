@@ -5,7 +5,7 @@ const BackgroundGradiend = () => {
 			<div className="w-[108rem] flex-none flex justify-end">
 				<picture>
 					<source
-						srcSet="https://tailwindcss.com/_next/static/media/docs@30.beeb08605f12f699c5abc3814763b65e.avif"
+						srcSet="https://tailwindcss.com/_next/static/media/docs-dark@30.1a9f8cbf.avif"
 						type="image/avif"
 					/>
 					<img
@@ -16,7 +16,7 @@ const BackgroundGradiend = () => {
 				</picture>
 				<picture>
 					<source
-						srcSet="https://tailwindcss.com/_next/static/media/docs-dark@30.77f062b5fd90f0d2cd4752cd9a8649c8.avif"
+						srcSet="https://tailwindcss.com/_next/static/media/docs@30.8b9a76a2.avif"
 						type="image/avif"
 					/>
 					<img
